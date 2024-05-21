@@ -139,8 +139,3 @@ dovrebbero essere mai chiamati dall'utente, ma usati solo da altri metodi
   Questa funzione ritorna preorder-mst che è una lista degli archi
   del MST ordinata secondo un attraversamento preorder dello stesso,
   fatta rispetto al peso dell'arco
-
-
-PROGETTO DI:
-- Colombo Gaia
-- Erba Sandro
