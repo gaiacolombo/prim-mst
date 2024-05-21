@@ -1,5 +1,6 @@
 # MST solved with Prim's algorithm
-Prim's algorithm implementation to solve the Minimum Spanning Tree (MST) problem for undirected, connected graphs with non-negative weights in both Prolog and Lisp progamming languages.
-To fulfill this, it has been implemented a MinHeap (or MinPriorityQueue) data structure.
 
-The API structure is described in the related programming language's folder.
+This project implements **Prim's algorithm** to solve the Minimum Spanning Tree (**MST**) problem for undirected, connected graphs with non-negative weights. The algorithm is implemented in both Prolog and Lisp programming languages.
+A **MinHeap** (or MinPriorityQueue) data structure has been developed to support this implementation.
+
+The API structure is explained in the folders for each programming language.
