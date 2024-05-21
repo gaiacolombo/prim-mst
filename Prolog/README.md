@@ -1,10 +1,3 @@
-mst.pl
-
-PROGETTO DI:
-- Colombo Gaia
-- Erba Sandro
-
-
 DESCRIZIONE:
 Questo progetto implementa l'algoritmo di Prim e la creazione del
 relativo MST (Minimum Spanning Tree) per un grafo non diretto
@@ -189,3 +182,8 @@ dovrebbero essere mai chiamati dall'utente, ma usati solo da altri metodi
 	Il predicato è vero quando PreorderTree è una lista degli archi
 	del MST ordinata secondo un attraversamento preorder dello stesso,
 	fatta rispetto al peso dell'arco
+
+
+PROGETTO DI:
+- Colombo Gaia
+- Erba Sandro
